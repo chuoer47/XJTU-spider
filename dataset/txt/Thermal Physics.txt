@@ -1,0 +1,19 @@
+标题: Thermal Physics
+发布日期: 2020-10-23
+浏览次数: 13833.0
+正文内容:
+课程名称：Thermal Physics
+主讲教师：Fang Aiping
+所在学院：School of Physics
+课程团队：无
+上线平台：学堂在线
+
+Course introduction
+◎The nature and purpose of the course
+Thermal physics is a basic course for physics majors and it is the science of studying the thermal motion of matter and the laws related to heat. First, students should master the characteristics, laws and research methods of material thermal motion, and master the basic concepts, laws and theories of thermal science. Second, it focuses on both the understanding and training of students' statistical physics thinking methods so as to lay a good foundation for the follow-up study and research of physics.
+◎Introduction to course content
+Thermal physics is the study of the thermal motion of matter and the laws associated with it. Its research method is guided with both macroscopical theories and microcosmic ones. The main research contents include the equilibrium theory of molecular dynamics of thermodynamic,transport phenomena and non-equilibrium theory of molecular dynamics namely transport phenomena in gases, thermodynamic system and equilibrium states, the zeroth law and temperature scale of thermodynamics, the first law of thermodynamics, the second law of thermodynamics and entropy, thermal phenomena of solids and liquids and phase transitions.
+◎Basic requirements.
+Master the basic thermal concepts of equilibrium, temperature and temperature scales, heat and internal energy, reversible and irreversible, entropy and the second Law of thermodynamics, distribution functions and statistical averages, phase transitions and Clapeyron equations, ideal gases and Van der Waals equations.
+Master Maxwell velocity and velocity distribution, Boltzmann distribution, equipartition theorem of energy, macroscopic law and microscopic mechanism of viscosity, heat conduction and diffusion, zeroth law of thermodynamics, first law of thermodynamics, second law of thermodynamics, principle of entropy increase, vaporization and liquefication, Clapperon equation and other basic thermal theories.
+Be able to apply various physical models to study and analyze various problems; Master the physical image that "the macroscopic property of the system is the statistical appearance of the microscopic thermal motion of molecules in the system", strengthen the teaching of entropy, and highlight the statistical concept and statistical average method. Master and apply statistical law to study thermal law from microscopic essence.

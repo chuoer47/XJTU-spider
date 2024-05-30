@@ -1,0 +1,84 @@
+标题: Electromagnetism-Herman 课程安排
+发布日期: 2018-06-21
+浏览次数: 1173.0
+正文内容:
+Electromagnetism: ParadoxesInstructorHerman BatelaanEmail: hbatelaan2@unl.edu
+DescriptionDeep comprehension of electromagnetism is important for further studies in quantum mechanics, field theory and optics. Nevertheless, electromagnetism by itself is often presented as a technique to be mastered without much intrinsic interest. We will revisit classical electromagnetism by identifying interesting problems and studying paradoxes. Perhaps surprisingly, there are some open problems in this classical field of physics. Why have we not been able to observe the effect of gravity on electromagnetism in the laboratory? What is the resolution of Feynman’s paradox and does that mean that Newton’s third law can be broken? What should we know about magnetic monopoles? Such questions will be addressed in this lecture series. It is assumed that the student will have had an undergraduate level course in electromagnetism. The basic level electromagnetism required for the comprehension of the paradoxes will be reviewed each day before introducing the paradox.
+Tentative lecture schedule (subject to change)
+DATES
+Timing
+location
+READING
+TOPICS
+6/25
+3:30-6:30pm
+B245
+Griffiths   Section 2.4
+Electromagnetic   field energy
+6/26
+3:30--6:30pm
+B245
+Griffiths,   pp. 355–358;Feynman Lectures of Physics,Vol. II. pp. 26-2-26-5;(2009)   39: 295-306
+Feynman’s   Paradox
+6/27
+3:30--6:30pm
+B245
+Griffiths,   pp.371-373
+Faraday’s   Paradox
+6/28
+3:30--6:30pm
+B245
+Am.   J. of Phys. 55, 420, (1987)
+Current-carrying   wire paradox.
+6/29
+3:30--6:30pm
+B245
+Am.   J. Phys. 54, 500 (1986);
+Aharonov’s   paradox and classical electron spin
+7/02
+3:30--6:30pm
+B245
+To   be announced
+Electrostatics   in gravity and curved space
+7/03
+3:30--6:30pm
+B245
+To   be announced
+Slow   Light and Fast Light
+7/04
+3:30--6:30pm
+B245
+To   be announced
+Monopoles   and Dirac strings
+7/05
+3:30--6:30pm
+B245
+To   be announced
+Momentum   in a medium, Uniformlyaccelerating charges, self-fields
+7/06
+3:30--6:30pm
+B245
+To   be announced
+Poisson   Eq. and an application
+
+报告人简介：
+Prof. Herman Batelaan
+Appointments
+Professeur de première classe      2013 June 15-July 15, University of Toulouse, France.
+Full Professor                  2010-present, University of Nebraska Lincoln, Lincoln NE.
+Visiting Professor               2005 Sept-Nov, University of Innsbruck
+Associate Professor(with tenure)   2003-2010, University of Nebraska Lincoln, Lincoln NE.
+Assistant Professor              1999-2003, University of Nebraska Lincoln, Lincoln NE.
+Professional Preparation
+Research Associate              1998-1999, Atomic and Optical Interactions group, Technical University of Eindhoven, The Netherlands.
+Research Assistant Professor, Lecturer    1996-1998, Atomic physics group, University of NebraskaLincoln.
+Lise Meitner fellow                   1994-1996, Institut für Experimental Physik, University of Innsbruck, Austria.
+Post-doctoral fellow                  1991-1994, Quantum electronics group, SUNY at Stony Brook NY.
+Graduate Institution                  1987-1991, Physics, Ph. D., Atomic physics group, University of Utrecht, The Netherlands.
+Undergraduate Institution              1983-1987, Physics, Masters, University of Leiden, The Netherlands.
+Publications (selected)
+1.The Aharonov–Bohm effects: Variations on a subtle theme,H. Batelaanand A. Tonomura, Phys. Today 62 September 38 (2009)
+2.Macroscopic Test of the Aharonov-Bohm Effect. A. Caprez, B. Barwick, and H. Batelaan, Phys. Rev. Lett. 99, 210401 (2007)
+3.S. Hilbert, B. Barwick, C. J. G. J. Uiterwaal,H. Batelaan, A. Zewail, "Temporal lenses for attosecond and femtosecond electron pulses", PNAS, p. 10558, vol. 106, (2009).
+4.Tip-top imaging. H. Batelaan and C. J. G. J. Uiterwaal, Nature 446, 500 (2007).
+5.Colloquium:Illuminating the Kapitza-Dirac effect with electron matter optics.H. Batelaan.Rev. of Mod. Phys. 79, 929 (2007)

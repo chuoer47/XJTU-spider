@@ -1,0 +1,11 @@
+标题: Analog Circuit Design
+发布日期: 2020-10-23
+浏览次数: 2138.0
+正文内容:
+课程名称：Analog Circuit Design
+主讲教师：Chen Wenjie
+所在学院：School of Electrical Engineering
+课程团队：Zhao Jinquan
+上线平台：学堂在线
+
+The foundation of analog electronic technology is an introductory course of electronic technology. Its task is to enable students to acquire the basic theory, basic knowledge and basic skills of electronic technology, to cultivate students' ability to analyze and solve problems, and to lay a good foundation for further study in some fields of electronic technology. The main contents include: semiconductor diode and its application, transistor and amplifier circuit foundation, FET and its amplifier circuit, integrated operational amplifier, feedback and negative feedback amplifier circuit, signal operation circuit, signal detection and processing circuit, signal generator, power amplifier, DC stabilized power supply, etc.

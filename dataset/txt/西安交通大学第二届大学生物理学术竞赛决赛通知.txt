@@ -1,0 +1,29 @@
+标题: 西安交通大学第二届大学生物理学术竞赛决赛通知
+发布日期: 2016-05-04
+浏览次数: 1709.0
+正文内容:
+为了活跃我校大学生学习大学物理及实验的兴趣，激发创新意识，培养和提高学生应用物理学基础知识的能力、数学能力、逻辑能力、创新能力、协作精神和实践能力；借鉴中国大学生物理学术竞赛（简称CUPT，该赛事是教育部支持的全国重要大学生创新竞赛活动之一）和国际青年物理学家竞赛（IYPT）的模式，理学院、教务处和工程坊共同举办“西安交通大学第二届大学生物理学术竞赛”，该竞赛采用团队答辩竞赛形式，要求学生根据给定的开放性物理问题进行研究并设计实验解决方案。
+经过长达半年的初赛复赛，期待已久的决赛即将开始。现将校内决赛第一场相关事宜公布如下：
+地点：基础学科大楼二楼大会议室
+时间：2016年5月7日星期六下午3:00
+主持人：方爱平
+计时员：方爱平
+参赛队员：
+第一组：孙媛媛、李铮儒、刘天皓、储讯潮
+第二组：盛裕杰、韩书琦、郭启淏、胡金辉
+第三组：张翼鹏、宋开心、王成龙、查伟
+第一阶段：
+正方：第一组孙媛媛，反方：第二组韩书琦，评论方：第三组宋开心
+题目：Problem No. 7 Hot Water Fountain
+Partially fill a Mohr pipette with hot water. Cover the top of the pipette with your thumb. Turn the tip upwards and observe the fountain exiting the tip. Investigate the parameters describing the height of the fountain, and optimize  them to get the maximum height.
+热水喷泉
+用热水部分装填一个莫尔吸量管。用你的大拇指盖住其上端并倒置，可观察到从尖部喷出的水喷泉。请研究决定水喷泉高度的参量，并改变它们以获得喷泉最大的高度。
+第二阶段：
+正方：第二组盛裕杰，反方：第三组张翼鹏，评论方：第一组李铮儒
+题目：Problem No. 8 Magnetic Train
+Button magnets are attached to both ends of a small cylindrical battery. When placed in a copper coil such that the magnets contact the coil, this "train" starts to move. Explain the phenomenon and investigate how relevant parameters affect the train's speed and power.
+磁力小火车
+两个扁圆柱形磁铁与一个柱状的电池两端相接，当这个体系放在铜线圈内部且与铜接触的时候，它会开始运动。解释这个现象并且研究相关参量怎么影响火车的速度和功率。
+正方讲述自己的观点，正反方就题目要求进行讨论，评论方给与评论等，每个环节都有时间限制。比赛的过程紧张、刺激，带给你不一样的物理体验。欢迎全校师生前来观看。
+理学院
+2015.5.4

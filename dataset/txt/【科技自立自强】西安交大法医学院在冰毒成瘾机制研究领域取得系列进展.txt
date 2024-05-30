@@ -1,0 +1,15 @@
+标题: 【科技自立自强】西安交大法医学院在冰毒成瘾机制研究领域取得系列进展
+发布日期: 日期：2022-07-24 11:25
+浏览次数: 1475
+正文内容:
+甲基苯丙胺（methamphetamine, METH），又被称为冰毒，是我国滥用人数最多的“头号毒品”，成瘾性极强，但是其成瘾机制尚不清楚。因此，明确METH成瘾机制，寻找具有功能效应的潜在治疗靶点是我国人口健康领域的重大需求。非编码RNA，尤其是miRNA在大脑中的失调与神经精神疾病的发生与发展密切相关。但miRNA在METH成瘾中确切的调控机制不明。基于此，西安交通大学法医学院陈腾教授团队在前期研究绘制的METH相关miRNA表达调控网络的基础上，发现并证实了全新的miRNA分子，novel-m009C（暂命名）对METH成瘾的调控作用。该研究利用动物行为学、荧光原位杂交、脑区注射、高通量测序联合生物信息分析等多种实验技术手段，首次在动物水平上明确了novel-m009C对METH奖赏效应的调控作用，尤其是提高伏隔核中novel-m009C的表达能够显著减弱METH奖赏效应而不影响小鼠对自然奖赏物（如糖水）的反应。同时，该研究还确定了与novel-m009C同源的人源miRNA（hsa-miR-604）。然而，hsa-miR-604与毒品滥用的关系尚未见报道。因此，进一步探索hsa-miR-604在METH滥用人群中的研究对证实其作为干预METH成瘾的潜在分子靶点至关重要。
+
+图1 伏隔核novel-m009C调控METH奖赏效应机制图
+上述成果以《一个全新miRNA，novel-m009C，调控甲基苯丙胺奖赏效应》（A novel microRNA, novel-m009C, regulates methamphetamine rewarding effects）”为题在《分子精神病学》（Molecular Psychiatry）在线发表。法医学院朱莉为本论文第一作者，法医学院陈腾教授为末尾通讯作者、官方霖教授为共同通讯作者。
+与此同时，METH除了强烈的成瘾性外，还会导致严重的精神障碍（METH-induced psychosis，MIP）。尽管MIP的症状表现与精神分裂症高度相似，但与精神分裂症有着不同发生机制的MIP却鲜少被关注。中枢神经系统中表达丰富的Notch1信号通路被证实与多种神经精神疾病密切相关。然而，Notch1信号通路是否参与调控MIP，目前仍不清楚。针对上述问题，陈腾教授团队围绕MIP的神经生物学机制，以Notch1信号通路为切入点，利用动物行为学、免疫荧光、脑区注射以及钙离子信号光纤记录等多种技术手段，揭示了内侧前额叶皮质成熟神经元内Notch1信号通路在调控MIP中的重要作用，并提出了Notch1-Hes1-GABAB1途径调控MIP的新机制，为研究MIP神经生物学机制奠定了理论基础。
+
+图2  Notch1-Hes1-GABAB1途径调控MIP的机制图
+上述成果以《内侧前额叶皮层Notch1信号通路通过Hes1抑制GABAB1受体表达调控甲基苯丙胺诱导精神障碍》（Medial prefrontal cortex Notch1 signalling mediates methamphetamine-induced psychosis via Hes1-dependent suppression of GABAB1 receptor expression）”为题在《分子精神病学》（Molecular Psychiatry）上在线发表。法医学院倪桐（博士生）为本论文第一作者，法医学院陈腾教授为末尾通讯作者、官方霖教授为共同通讯作者。
+原文链接：
+https://www.nature.com/articles/s41380-022-01651-2
+https://www.nature.com/articles/s41380-022-01662-z

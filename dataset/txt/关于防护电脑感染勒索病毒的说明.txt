@@ -1,0 +1,25 @@
+标题: 关于防护电脑感染勒索病毒的说明
+发布日期: 时间：2017-05-13    西安交通大学网络信息中心
+浏览次数: 未知
+正文内容:
+校园网用户：
+近日国内爆发勒索病毒，经过初步调查，此类勒索病毒利用了基于445端口传播扩散的SMB漏洞，大量重要信息被加密，只有支付高额的比特币赎金才能解密恢复文件，损失严重。
+微软在今年3月发布的MS17-010补丁，修复了ETERNALBLUE等远程利用漏洞。目前基于ETERNALBLUE的多种攻击代码已经在互联网上广泛流传，除了捆绑勒索病毒，还发现有植入远程控制木马等其他多种远程利用方式。
+根据360公司的统计，目前国内平均每天有不低于5000台机器遭到基于ETERNALBLUE的远程攻击，并且攻击规模还有进一步扩大趋势。
+此漏洞影响以下未自动更新的操作系统：
+Windows XP／Windows 2000／Windows 2003
+Windows Vista／Windows Server 2008／Windows Server 2008 R2
+Windows 7／Windows 8／Windows 10
+Windows Server 2012／Windows Server 2012 R2／Windows Server 2016
+个人预防措施：
+1.未升级操作系统的处理方式（不推荐，临时缓解）：
+打开“Windows防火墙”，进入“高级设置”，在入站规则里禁用“文件和打印机共享”相关规则。
+2.升级操作系统的处理方式（推荐）：
+建议广大师生使用自动更新升级到Windows的最新版本。
+建议加固措施：
+1.及时升级操作系统到最新版本；
+2.勤做非本地重要文件备份。
+3.停止使用WindowsXP、Windows Server 2003等微软已不再提供安全更新的操作系统。
+参考链接：
+https://technet.microsoft.com/zh-cn/library/security/MS17-010
+https://github.com/x0rz/EQGRP_Lost_in_Translation/

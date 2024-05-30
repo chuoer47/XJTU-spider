@@ -1,0 +1,28 @@
+标题: 【科技自立自强】西安交大科研人员牵头为权威期刊《Advanced Drug Delivery Reviews》组织“肿瘤免疫治疗与物理微环境”专刊
+发布日期: 日期：2023-04-01 23:24
+浏览次数: 1251
+正文内容:
+免疫治疗作为抗肿瘤治疗的里程碑，极大改善了恶性肿瘤患者的预后，成为目前基础与临床研究的前沿特点领域。然而，免疫治疗仍然存在有效率低、原发和继发性耐药发生率高的困境，如何提高免疫治疗疗效是临床医生和基础研究者所面对的重大挑战。近年来，随着对肿瘤微环境认知的不断深入，研究者们意识到作为肿瘤微环境的新标志——物理微环境可以通过多种途径造成肿瘤治疗耐药。一方面肿瘤物理微环境会成为治疗药物的递送屏障，另一方面物理微环境特有的物理性质会诱导肿瘤细胞及微环境成分趋于耐药。因此，如何通过靶向肿瘤的物理微环境来提高免疫治疗及其联合疗法的有效性，成为多学科交叉研究的共性问题。
+
+近日，西安交大仿生工程与生物力学研究所（BEBC）徐峰教授联合西安交大一附院肿瘤内科郭卉教授、美国圣路易斯大学Silviya P. Zustiak教授和西安交大BEBC/圣路易斯华盛顿大学美国国家发明家科学院院士Guy M. Genin教授，作为专刊编辑在国际权威综述期刊《Advanced Drug Delivery Reviews》（IF = 17.873）牵头组织了一期主题为“肿瘤免疫治疗与物理微环境”（Targeting the Physical Microenvironment of Tumors for Drug and Immunotherapy）的专刊，并诚邀海内外多位知名教授为本期专刊撰写了高质量综述。
+
+
+专题系统性地回顾及讨论了肿瘤物理微环境中的各种力学因素如何干扰抗肿瘤免疫循环从而造成免疫治疗耐药；作为物理屏障的肿瘤细胞外基质及脉管系统如何阻碍治疗药物的递送，并影响免疫细胞浸润而发挥肿瘤细胞杀伤作用；肿瘤支持细胞群（如肿瘤相关成纤维细胞（CAFs）、肿瘤相关髓样细胞（TAMCs））如何促进肿瘤生长，发挥免疫抑制作用。除了关注到物理微环境对免疫治疗的影响机制，专题也全面地展示了靶向肿瘤物理微环境的新兴治疗策略和前沿研究技术，例如肿瘤激活的无载体前药纳米颗粒 (PDNP)；以细胞核力学和机械传导为目标的治疗药物开发和设计；可实现与免疫系统相互作用的肿瘤类器官芯片平台以及此类模型在临床中的应用。
+从“临床现象”到“理论机制”，从“前沿技术”到“临床转化”，专刊深入探讨了肿瘤物理微环境与治疗策略之间的关系。旨在以肿瘤物理微环境为切入点，通过宏观打破肿瘤物理屏障、微观调控肿瘤物理微环境、靶向力化耦合信号转导等策略，在多个尺度和多个步骤提高肿瘤对免疫治疗的响应性。这些策略将成为提升肿瘤患者临床治疗效果的一种很有前景的方向。同时也为靶向肿瘤物理微环境的治疗策略提供借鉴和参考，受到国内外学者的广泛关注，为推动理工医交叉融合，促进基础学科与临床的协作贡献力量。
+
+
+专刊信息
+专刊主题:Targeting the Physical Microenvironment of Tumors for Drug and Immunotherapy
+专刊链接：https://www.sciencedirect.com/science/article/pii/S0169409X23000832
+专刊文章：
+1. Hu M, Huang L. Strategies targeting tumor immune and stromal microenvironment and their clinical relevance.Adv Drug Deliv Rev183(2022)114137.https://doi.org/10.1016/j.addr.2022.114137
+2. Shim MK, Yang S, Sun IC, Kim K. Tumor-activated carrier-free prodrug nanoparticles for targeted cancer Immunotherapy: Preclinical evidence for safe and effective drug delivery.Adv Drug Deliv Rev183(2022)114177.https://doi.org/10.1016/j.addr.2022.114177
+3. Ngo W, Ahmed S, Blackadar C, Bussin B, Ji Q, Mladjenovic SM, Sepahi Z, Chan W. Why nanoparticles prefer liver macrophage cell uptakein vivo. Adv Drug Deliv Rev185(2022)114238.https://doi.org/10.1016/j.addr.2022.114238
+4. Luo Z, Yao X, Li M, Fang D, Fei Y, Cheng Z, Xu Y, Zhu B. Modulating tumor physical microenvironment for fueling CAR-T cell therapy.Adv Drug Deliv Rev185(2022)114301.https://doi.org/10.1016/j.addr.2022.114301
+5. Zhang T, Jia Y, Yu Y, Zhang B, Xu F, Guo H. Targeting the tumor biophysical microenvironment to reduce resistance to immunotherapy.Adv Drug Deliv Rev186(2022)114319.https://doi.org/10.1016/j.addr.2022.114319
+6. Zhang J, Tavakoli H, Ma L, Li X, Han L, Li X. Immunotherapy discovery on tumor organoid-on-a-chip platforms that recapitulate the tumor microenvironment.Adv Drug Deliv Rev187(2022)114365.https://doi.org/10.1016/j.addr.2022.114365
+7. Hormuth DA, Farhat M, Christenson C, Curl B, ChadQuarles C, Chung C, Yankeelov TE. Opportunities for improving brain cancer treatment outcomes through imaging-based mathematical modeling of the delivery of radiotherapy and immunotherapy.Adv Drug Deliv Rev187(2022)114367.https://doi.org/10.1016/j.addr.2022.114367
+8. Li N, Zhang X, Zhou J, Li W, Shu X, Wu Y, Long M. Multiscale biomechanics and mechanotransduction from liver fibrosis to cancer.Adv Drug Deliv Rev188(2022)114448.https://doi.org/10.1016/j.addr.2022.114448
+9. Zhao J, Dong Y, Zhang Y, Wang J, Wang Z. Biophysical heterogeneity of myeloid-derived microenvironment to regulate resistance to cancer immunotherapy.Adv Drug Deliv Rev191(2022)114585.https://doi.org/10.1016/j.addr.2022.114585
+10. Liu S, Li Y, Hong Y, Wang M, Zhang H, Ma J, Qu K, Huang G, Lu T. Mechanotherapy in Oncology: Targeting Nuclear Mechanics and Mechanotransduction.Adv Drug Deliv Rev194(2023)114722.https://doi.org/10.1016/j.addr.2023.114722
+Delaram S, Guy M, Silviya P. Mechanobiology of cancer cell responsiveness to chemotherapy and immunotherapy: Mechanistic insights and biomaterial platforms.Adv Drug Deliv Rev196(2023)114771.https://doi.org/10.1016/j.addr.2023.114771

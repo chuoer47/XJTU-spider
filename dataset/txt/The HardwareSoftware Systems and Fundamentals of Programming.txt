@@ -1,0 +1,14 @@
+标题: The Hardware/Software Systems and Fundamentals of Programming
+发布日期: 2020-10-23
+浏览次数: 134.0
+正文内容:
+课程名称：The Hardware/Software Systems and Fundamentals of Programming
+主讲教师：Ning WU
+所在学院：Department of Electronics and Information
+课程团队：CUI Shuning、CHEN Long、QI Qi
+上线平台：学堂在线
+
+Welcome to this course!
+Since the day the digit was born, there has been calculation. Nowadays, computing is everywhere. The ubiquitous computing devices, computer network and communication have completely changed the living habits of human beings for thousands of years. People hope that through ubiquitous computing, they can get the services they want anytime and anywhere. The important carrier of providing these services or computing is the computer and the network that connects various computing devices together.
+We have a computer in mobile phone, we use computers in most household appliances such as washing machines and refrigerators, and we also have computers in our cars. Robots working in many high-intensity and dangerous jobs are controlled by computers. In addition, we can use WeChat, QQ, Skype, Email and other instant messaging tools or software to keep in touch with friends around the world. As the old saying goes, “A scholar, without going out, can know the affairs in the world.” We can access various information through search engines such as Baidu and Google. All of this is aided by computers and internet all over the world.
+Computer has become an indispensable part of human life. No matter what major you are studying, and no matter what job you are or will be engaged in, the computer wi1l certainly accompany you every day and become an indispensable partner and assistant in your life and work. Therefore, understanding the computer, mastering the basic ideas and methods of using computers to solve problems will definitely bring unlimited convenience to your study and research.

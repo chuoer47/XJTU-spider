@@ -1,0 +1,16 @@
+标题: 西安交大科研人员在太阳能海水淡化领域取得重要进展
+发布日期: 日期：2021-08-31 15:22
+浏览次数: 1926
+正文内容:
+基于界面蒸发的太阳能海水淡化技术具有低成本、节能、环境友好等优势，是一种可持续的淡水获取技术，可一步直接从海水中制取饮用水。该技术适用于中大规模淡化厂（沿海地区、海岛）和便携式净水装置（农村、野外、海上船只、海上作业平台等）。近年来，随着各类高效蒸发器的研发，太阳能转换效率得到了显著提高，已经接近商用价值。然而，同传统的海水淡化技术一样，都面临着盐分污染问题，不可避免地影响蒸发器的性能和寿命。
+电信学部阙文修教授团队是最早从事该领域研究的团队之一，针对这一问题，在早期研究工作（Materials Horizons2018, 5, 1143-1150、Journal of Materials Chemistry A, 2018, 6, 16196-16204 (ESI高被引论文)、Chemical Engineering Journal 2019, 373, 955-962）的基础上，综述了目前光热材料的各类阻盐技术，分为清洗、扩散、排斥、收集四种技术（图1），以“Innovative Salt-blocking Technologies of Photothermal Materials in Solar-driven Interfacial Desalination”为题发表在国际材料学著名学术期刊Journal of Materials Chemistry A（2021, 9, 16233-16254，影响因子12.732）上。
+
+图1 光热材料的各类阻盐技术
+进一步综述了现有蒸发系统的全部阻盐策略，分为人工移除（包括清洗、收集）、屏蔽效应（包括疏水效应、双面膜、离子排斥）、势场液流驱动（包括夜间自溶解、反向自扩散、单向液流、马兰戈尼效应）（图2），分析了各种阻盐机制的优缺点，展望了该领域的挑战和机遇，最近以“Recent AdvancedSelf-Propelling Salt-Blocking Technologies forPassive Solar-DrivenInterfacial Evaporation Desalination Systems”为题发表在国际能源领域权威期刊Nano Energy（影响因子为17.881）上。该工作有望为设计和开发高效耐盐太阳能海水淡化系统提供借鉴意义。
+
+图2 太阳能蒸发系统的全部阻盐策略
+上述工作是在电信学部电子科学与工程学院学院电子陶瓷与器件教育部重点实验室阙文修教授和杨亚威助理教授指导下完成。电信学部巴基斯坦留学生Fahad Nawaz为上述第一篇论文的第一作者，博士生盛敏豪为第二篇论文的第一作者，杨亚威助理教授为两篇论文的共同第一作者和通讯作者，阙文修教授为两篇论文的通讯作者，西安交通大学为唯一作者单位。电子科学与技术专业赵石焓作为参加大学生创新训练“基于太阳能驱动界面蒸发的海水淡化”的本科生，深度参与了两篇文章的整理和写作过程。
+该工作得到了国家自然科学基金、陕西省自然科学基金、中国博士后科学基金、中央高校基本科研业务费等项目的支持。
+阙文修教授团队长期致力于纳米复合材料的新能源与环境应用研究，该研究工作是阙文修教授课题组在太阳能转换领域多项研究成果发表在ACS Energy Letters, ACS Nano, Materials Horizons, Applied Catalysis B: Environmental，Journal of Materials Chemistry A，Chemical Engineering Journal等国际著名期刊后的又一重要进展。
+文章1链接：https://pubs.rsc.org/en/content/articlelanding/2021/TA/D1TA03610F#!divAbstract
+文章2链接：https://www.sciencedirect.com/science/article/pii/S2211285521007230

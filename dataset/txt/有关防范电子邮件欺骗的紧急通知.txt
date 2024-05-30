@@ -1,0 +1,41 @@
+标题: 有关防范电子邮件欺骗的紧急通知
+发布日期: 时间：2010-03-01    西安交通大学网络信息中心
+浏览次数: 未知
+正文内容:
+尊敬的校园网用户：
+近期校园网用户经常收到外来冒充管理员发送的欺骗邮件，骗取用户的个人信息、电子邮箱账号口令、银行卡账号口令、网站注册用户信息等重要信息，用户稍有不慎，就会落入圈套，造成账号被盗，严重的造成经济损失或保密信息、个人隐私泄露。
+对于网络上的这些欺骗手段，我们一方面采取技术手段，在邮件网关上过滤拦截，另一方面希望用户提高警惕，对网络上的邮件及其它信息有一定的鉴别能力。为此，我们总结以下几点，希望用户借鉴。
+1 一定要保护好个人的密码口令，密码口令的作用是一把“钥匙”，任何人（比如声称管理员）以任何理由（比如系统维护）以任何方式（邮件、QQ、短信）索取您的“钥匙”，一定要防范不要掉入欺骗陷阱。
+2 电子邮件系统对于发送者的身份是不验证或验证不严格，欺骗者可以通过技术手段冒充别人的身份，以达到欺骗的目的，因此用户不能只看收件人就确信邮件的真实性，涉及到关键信息、金钱、交易、账号口令等内容一定要提高警惕，不要轻易就泄露了自己的信息。
+3 随者人们的生活、工作、学习越来越依赖互联网，个人信息已不知不觉的留在互联网上，欺骗者有可能通过互联网收集您的信息，精心编织一个陷阱，达到骗取金钱或或其它目的，所以对于收到的信件真实性一定要有鉴别力。
+4 一般用户为了记忆方便，很多系统、账号都使用相同或相似的口令密码，因此一个密码被泄露出去，会威胁到其它系统、账号的安全。
+5 重要联系人的信箱地址一定要确认(检查信箱的拼写)无误，特别是教师通过电子邮件与科研合作者，或企业传递科研资料的过程中，谨防假冒的信箱骗取信息。
+案例分析：
+1 近期很多老师收到 "Web Master-Help Team" <dorian@gam.co.za>发送的 标题为
+VERIFY YOUR EMAIL ACCOUNT，以下为新建内容：
+Dear xjtu.edu.cn Email Account Owner,This message is from xjtu.edu.cn
+messaging center to all xjtu.edu.cn email account owners. We are currently
+upgrading our data base and e-mail account center. We are deleting all
+unused xjtu.edu.cn email account to create more space for new accounts. To
+prevent your account from closing you will have to update it below so that
+we will know that it's a present used account.
+CONFIRM YOUR EMAIL IDENTITY BELOW
+Email Username: ...............
+EMAIL Password: ................
+Date of Birth: .................
+Country or Territory:...........
+Warning!!! Account owner that refuses to update his or her account within
+Seven days of reading this warning will lose his or her account permanently.
+Thank you for using xjtu.edu.cn!
+分析： 这是一个典型的欺骗邮件，但是非常容易识别，首先，交大的邮件系统由信网中心维护，而发件人是一个国外信箱，只看发件人就能识别真伪了。第二，我们发送的通知一般都是使用中文。第三，凡是索取账号口令的都是欺骗陷阱。
+2 近期由用户收到主题为A new settings file for theljt@xjtu.edu.cnhas just be released 的信件，带有一个附件，冒充管理员要求用户升级信箱，实际上附件是一个特洛伊木马病毒。
+>Dear use of the xjtu.edu.cn mailing service!
+>
+>We are informing you that because of the security upgrade of the mailing service
+your mailboxljt@xjtu.edu.cnsettings were changed. In order to apply the new set
+of settings open attached file.
+3 发送者冒充银行发送信件，以系统维护为名，索取账号密码，或发送一个登录链接，骗取账号口令。
+防范措施：首先，任何银行不会这样做，您可以认定这是欺骗。其二，只通过正确的地址使用网银，不要使用别人发送的链接。不要用电子邮件回复自己的账号密码。
+如果您对收到的电子邮件有疑问，或发现欺骗的信件，可以致电82668637举报。
+信息与网络中心
+2010年3月1日

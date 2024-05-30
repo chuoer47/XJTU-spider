@@ -1,0 +1,20 @@
+标题: 西安交大科研团队在表皮生长因子受体突变体蛋白水解靶向嵌合体研究方面取得进展
+发布日期: 日期：2022-03-24 09:46
+浏览次数: 1633
+正文内容:
+表皮生长因子受体（EGFR）是治疗非小细胞肺癌（NSCLC）的重要靶点。EGFR酪氨酸激酶抑制剂（EGFR-TKIs）虽然在临床上取得了很大成效，但是获得获得性耐药问题大大限制了其临床应用。所以迫切需要开发新的疗法来克服耐药问题。蛋白水解靶向嵌合体（PROTACs）是一种可以诱导靶蛋白降解的双功能分子，利用分子中的E3连接酶配体和靶蛋白配体同时结合靶蛋白和E3连接酶促进靶蛋白泛素化，进而被降解。这一独特作用模式使得PROTACs克服耐药的潜力。研究人员们已经报道了一些EGFR的PROTACs，但是这些PROTACs抗增殖活性或降解活性不够高，难以同时对多种EGFR突变体发挥高效的降解作用。
+药学院张三奇研究团队一直致力于EGFR-TKI的研究，期望通过PROTACs技术克服或规避EGFR突变导致的耐药。2020年率先报道了基于第四代EGFR-TKI的吡啶并[3, 4-d]嘧啶类PROTAC，表现出优异的细胞活性和降解作用（Eur. J. Med. Chem. 2020,189,112061），之后又报道了9H-嘌啉类EGFR-TKI（Eur. J. Med. Chem. 2020,186,111888）。在9H-嘌啉类EGFR-TKI结构基础上设计PROTAC，得到活性非常突出PROTAC，发现该类PROTAC的降解作用与自噬密切相关（Eur. J. Med. Chem. 2020, 208,112781）。
+
+在本研究中，该团队以之前的工作为基础，以自主设计、合成、发现的新的高活性的含嘌呤骨架的共价EGFR-TKIs作为EGFR配体，得到一系列共价的EGFR突变体PROTACs，最终发现了抗增殖活性高、降解活性好、选择性高并能同时高效地诱导单突变（EGFRdel19）和双突变EGFR（EGFRL858R/T790M）的PROTACCP17。
+
+（A）该团队先前报道的可逆PROTAC的结构 （B）化合物9（绿色）和EGFRT790M(黄色，PDB：3ika)的对接模型
+（C）含嘌呤骨架的EGFR-TKIs和含嘌呤片段的共价EGFR突变体PROTACs的设计
+
+（A，C）CP17对EGFRL858R/T790M和EGFRdel19DC50值的测定结果  （B，D）分别为（A，C）的统计图
+通过Western blot试验测试，CP17对耐药突变体EGFRL858R/T790M的DC50值达到1.56 nM，对EGFRdel19的DC50值达到了0.49 nmol/L。CP17同时对HCC827（EGFRdel19）和H1975（EGFRL858R/T790M）细胞表现出很强的抗增殖活性，IC50值分别为1.60和32 nmol/L。一系列的降解机制研究结果表明，CP17同时结合EGFR和VHL，形成了三元复合物，并促进了EGFR的泛素化，进而使EGFR降解。而且，EGFR的降解和溶酶体有关。该研究证明了共价结合方式是发现高活性EGFRL858R/T790MPROTACs的有效策略。
+
+（A）可逆PROTACR1和共价PROTACCP17的结构 （B，C）R1和CP17抗H1975和HCC827细胞增殖活性的测定结果
+（D，E）R1和CP17对EGFRL858R/T790M和EGFRdel19降解活性的测定结果；（F）为（D，E）的统计结果
+该研究成果发表在药物化学权威期刊《药物化学杂志》（Journal of Medicinal Chemistry）上。论文题目为《通过优化EGFR配体发现的高效EGFR突变体PROTACs》（Discovery of Potent PROTACs Targeting EGFR Mutantsthrough Optimization of Covalent EGFR Ligand），论文第一作者为博士研究生赵宏义，通讯作者为张三奇教授，西安交通大学为唯一通讯单位。该研究得到了国家自然科学基金面上项目的资助。
+
+论文链接：https://doi.org/10.1021/acs.jmedchem.1c01827

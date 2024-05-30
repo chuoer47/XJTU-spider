@@ -1,0 +1,14 @@
+标题: Principles of Automatic Control
+发布日期: 2020-10-23
+浏览次数: 305.0
+正文内容:
+课程名称：Principles of Automatic Control
+主讲教师：Aimin Zhang
+所在学院：Department of Electronics and Information
+课程团队：Zhigang Ren、Jingjing Huang、Yong Wang、Xiaodong Ren、Xuetao Zhang、Sibo Ge
+上线平台：学堂在线
+
+Automation technology has been widely used in all works of life. It not only frees people from heavy physical labor as well as harsh and dangerous working environment, but also greatly improves productivity.
+The basis of automation technology is control science. As a vital means to liberate human productivity, automatic control has penetrated into all fields of human society. The course of Principles of Automatic Control mainly describes general operation rules and control methods of automatic control systems. It covers all early achievements in the field of control science and engineering, including the time-domain method, root locus method, and frequency-domain method used for analyzing system stability, transient-state performance and steady-state performance, as well as controller design methods that can make systems achieve desired performance specifications. All these constitute the core content of the classic control theory which takes transfer function and frequency characteristic as a basis.
+Therefore, Principles of Automatic Control, as the foundation of each branch theory subsequently developed in the field of control science, is not only  a professional core course of automation subject, but also a basic course of all subjects related to automation, such as electricity, machinery, energy and power, and chemical industry.
+The international online course of “Principles of Automatic Control” provides the basic content of the classic control theory. More attention should be paid to understanding the basic concepts it involves.

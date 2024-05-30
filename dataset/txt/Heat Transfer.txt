@@ -1,0 +1,12 @@
+标题: Heat Transfer
+发布日期: 2020-10-23
+浏览次数: 268.0
+正文内容:
+课程名称：Heat Transfer
+主讲教师：LI Zeng-Yao
+所在学院：School of Energy and Power Engineering
+课程团队：TAO Wen-Quan、WANG Qiu-Wang、WU Yi-Ning、TANG Gui-Hua、ZENG Min、QU Zhi-Guo、ZHANG Jian-Fei、YANG Jian、JI Wen-Tao、MA Ting、CHEN Li、ZHAO Cun-Lu、CHEN Lei
+上线平台：学堂在线
+
+Heat transfer is a basic science that deals with the rate of transfer of thermal energy caused by temperature difference. From the HVAC of modern buildings to the formation of wind, frost, rain and snow in nature, from the thermal protection of space shuttle re-entering the atmosphere to the effective cooling of electronic devices, from the human wearing all the year round to the freezing and storage of human organs, all are closely related to the transfer of thermal energy.
+Heat transfer is a mandatory basic course for students in energy and power engineering, chemical engineering, mechanical engineering, etc. It covers (1) the physical concepts, characteristics and basic laws of conduction, convection and radiation, (2) the methods to discern relevant heat transfer problems, make simplifying assumptions for a variety of practical situations, identify key dependent or independent variables, choose or develop appropriate correlations or expressions for analyzing related heat transfer problems, perform a shell-and-tube heat exchangers thermal analysis, and understand how to enhance or weaken the heat transfer.

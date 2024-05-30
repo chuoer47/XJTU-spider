@@ -1,0 +1,24 @@
+标题: 关于Windows勒索病毒的紧急通知
+发布日期: 时间：2017-05-13    西安交通大学网络信息中心
+浏览次数: 未知
+正文内容:
+校园网用户：
+近日国内爆发ONION病毒，磁盘文件会被加密为.onion后缀后敲诈勒索计算机用户，需要支付高额赎金才可以解密文件，对计算机用户造成巨大损失和精神、财产双重压力。
+该勒索病毒传播是通过扫描开放的445端口（用来共享文件和打印机传输）机器，无须用户任何操作就被植入病毒，并对文件进行加密。我校校园网核心设备的安全策略已长期封禁了445等不安全端口，禁止了该病毒从校园网外进入校内的途径，同时网络中心已联合360等安全厂商采用技术手段对校园网进行安全防范，目前尚未收到我校有用户被该病毒感染的报告。但U盘、邮件、DVD等移动介质也是病毒的可能传播途径，一旦病毒感染到校园网内部机器，将有可能在校内传播感染，为确保网络安全和用户数据安全，请大家提高安全意识，注意防范，尽快升级系统打补丁。
+各系统补丁官方下载地址如下：
+【KB4012598 】：http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012598
+适用于Windows XP 32位/64位/嵌入式、Windows Vista 32/64位、Windows Server 2003 SP2 32位/64位、Windows 8 32位/64位、Windows Server 2008 32位/64位/安腾
+【KB4012212 】：http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012212
+适用于Windows 7 32位/64位/嵌入式、Windows Server 2008 R2 32位/64位
+【KB4012213 】：http://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012213
+适用于Windows 8.1 32位/64位、Windows Server 2012 R2 32位/64位
+【KB4012214 】：http://catalog.update.microsoft.com/v7/site/Search.aspx?q=KB4012214
+适用于Windows 8嵌入式、Windows Server 2012
+【KB4012606 】：http://www.catalog.update.microsoft.com/Search.aspx?q=KB4012606
+适用于Windows 10 RTM 32位/64位/LTSB
+【KB4013198 】：http://www.catalog.update.microsoft.com/Search.aspx?q=KB4013198
+适用于Windows 10 1511十一月更新版32/64位
+【KB4013429 】：http://www.catalog.update.microsoft.com/Search.aspx?q=KB4013429
+适用于Windows 10 1607周年更新版32/64位、Windows Server 2016 32/64位
+西安交通大学网络中心
+2017.5.13
